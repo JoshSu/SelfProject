@@ -5,7 +5,7 @@ import java.awt.Toolkit;
 import java.awt.event.InputEvent;
 import java.util.*;
 
-public class RutgersCourseAdder {
+public class CourseRegisterRobot {
 	public static void main(String[] args) {
 		for (int i = 0; i < 10; i++) {
 

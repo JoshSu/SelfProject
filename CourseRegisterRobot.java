@@ -7,7 +7,7 @@ import java.util.*;
 
 public class CourseRegisterRobot {
 	public static void main(String[] args) {
-		for (int i = 0; i < 10; i++) {
+		for (int i = 0; i < 10000; i++) {
 
 			//Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();// get
 																				// the
